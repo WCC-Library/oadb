@@ -6,8 +6,11 @@ Experimental Github Open Access Database Repository.
 2. A way to build collaboration into a project that relies on collaboration.
 
 # Data
-[Google Spreadsheet](https://docs.google.com/spreadsheets/d/1xfK6a0UIHLSK3h2nBxqznPi-dHRQI4nsjpRDBAO6Z1A/edit#gid=2117347238)
-[View Collection Form Questions](https://docs.google.com/forms/d/e/1FAIpQLSfpyFi9QKnO3lWvUpagKITSVO_8-FRYSappCR7GygicCQOChA/viewform)
+* [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1xfK6a0UIHLSK3h2nBxqznPi-dHRQI4nsjpRDBAO6Z1A/edit#gid=2117347238)
+* [View Collection Form Questions](https://docs.google.com/forms/d/e/1FAIpQLSfpyFi9QKnO3lWvUpagKITSVO_8-FRYSappCR7GygicCQOChA/viewform)
+
+## [More info on this tool on the wiki](https://github.com/WCC-Library/oadb/wiki)
+[Project Management via Github](https://github.com/features/project-management/)
 
 ## Higher Ed & Librarians using Github
 * [Berkeley](https://technology.berkeley.edu/services/web-development-and-hosting-enterprise-applications/github-berkeley)
