@@ -2,8 +2,8 @@
 Experimental Github Open Access Database Repository.
 
 # Purpose
-1.  A way to build collaboration into a project that relies on collaboration.
-1.1 A way to use GitHub Pages as a way of showing librarians the benefit of Git. (Problem, Librarians often want to publish info but don't useful outlets). 
+* A way to build collaboration into a project that relies on collaboration.
+** A way to use GitHub Pages as a way of showing librarians the benefit of Git. (Problem, Librarians often want to publish info but don't useful outlets). 
 
 # Data
 * [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1xfK6a0UIHLSK3h2nBxqznPi-dHRQI4nsjpRDBAO6Z1A/edit#gid=2117347238)
