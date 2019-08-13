@@ -20,3 +20,6 @@ Experimental Github Open Access Database Repository.
 * Shawn Graham, [Crafting Digital History](http://site.craftingdigitalhistory.ca/) (course website, textbook, class collaboration on GitHub)
 * [University of Idaho Library](https://uidaholib.github.io/get-git/)
 * [The Programming Historian](https://programminghistorian.org/)
+
+## Observations from Ro:
+* When updating an excel (xls) file (from a pull-request) with the same file name, Github does not check if the files are the same (not a file merge checker atm).
