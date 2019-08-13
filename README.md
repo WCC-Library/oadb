@@ -3,8 +3,8 @@ Experimental Github Open Access Database Repository.
 
 # Purpose
 * A way to build collaboration into a project that relies on collaboration.
-  * A way to use GitHub Pages as a way of showing librarians the benefit of Git. (Problem, Librarians often want to publish info but don't useful outlets). 
-  * Evaluate versus Google Sheets to store, collaborate and share tabular data
+  * Evaluate product versus Google Sheets to store, collaborate and share tabular data
+  * Maybe use Git Pages to share data?
 
 
 # Data
