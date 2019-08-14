@@ -12,9 +12,11 @@ Experimental Github Open Access Database Repository.
 * [View Collection Form Questions](https://docs.google.com/forms/d/e/1FAIpQLSfpyFi9QKnO3lWvUpagKITSVO_8-FRYSappCR7GygicCQOChA/viewform)
 * [Project Wiki](https://github.com/WCC-Library/oadb/wiki)
 
+
 ## New to Github?
-[Hello World Github](https://guides.github.com/activities/hello-world/)
-[Project Management via Github](https://github.com/features/project-management/)
+* [Hello World Github](https://guides.github.com/activities/hello-world/)
+* [Project Management via Github](https://github.com/features/project-management/)
+* [Version Control with Git](https://caltechlibrary.github.io/git-desktop/aio/) From Cal Tech Library
 
 ## Higher Ed, Libraries & Librarians using Github
 * [Berkeley](https://technology.berkeley.edu/services/web-development-and-hosting-enterprise-applications/github-berkeley)
