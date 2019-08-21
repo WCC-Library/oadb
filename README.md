@@ -25,5 +25,8 @@ Experimental Github Open Access Database Repository.
 * [University of Idaho Library](https://uidaholib.github.io/get-git/)
 * [The Programming Historian](https://programminghistorian.org/)
 
+# Articles of imapact to this project so far:
+* [Turn a Spreadsheet into Markdown Files to fuel the content of a Jekyll Site](http://www.evanlovely.com/utilities/jekyll/spreadsheet-to-markdown/)
+
 ## Observations from Ro:
 * When updating an excel (xls) file (from a pull-request) with the same file name, Github does not check if the files are the same (not a file merge checker atm).
