@@ -23,7 +23,7 @@ Welcome to an experimental Github Open Access Database Repository run by librari
 * [University of Idaho Library](https://uidaholib.github.io/get-git/)
 * [The Programming Historian](https://programminghistorian.org/)
 
-# Articles of imapact to this project so far:
+# Articles of impact to this project so far:
 * [Turn a Spreadsheet into Markdown Files to fuel the content of a Jekyll Site](http://www.evanlovely.com/utilities/jekyll/spreadsheet-to-markdown/)
 
 ## Additional Project Notes:
