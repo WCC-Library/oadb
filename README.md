@@ -10,6 +10,7 @@ Welcome to an experimental Github Open Access Database Repository initially run 
 * [View Collection Form Questions](https://docs.google.com/forms/d/e/1FAIpQLSfpyFi9QKnO3lWvUpagKITSVO_8-FRYSappCR7GygicCQOChA/viewform)
 * [Project Wiki (Forthcoming)](https://github.com/WCC-Library/oadb/wiki)
   * Note: the Wiki is still being discussed as a possible tool in this project.
+* A Public-facing webpage version of this file can be found [here](https://wcc-library.github.io/oadb/).
 
 ## Are You New to Github? Start Here
 * [Hello World Github](https://guides.github.com/activities/hello-world/)
