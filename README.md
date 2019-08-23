@@ -1,5 +1,5 @@
 # PCI Open Access Database Review Project and Evaluatory Tools
-Welcome to an experimental Github Open Access Database Repository run by librarians in Washington State. Last updated August 2019.
+Welcome to an experimental Github Open Access Database Repository initially run by librarians in Washington State, with support from librarians in Asia, Europe, and North America. This page was last updated in August 2019.
 
 # Purpose
 * This GitHub repository is designed to store data and files related to the 2018, 2019, and future iterations of this project. It was created by [Ro McKernan (Whatcom Community College)](mailto:rmckernan@whatcom.edu) and is co-managed by [Greg Bem (LWTech)](mailto:greg.bem@lwtech.edu).
